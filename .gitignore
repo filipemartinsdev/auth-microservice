@@ -1,5 +1,8 @@
 .env
 
+src/main/resources/app.key
+src/main/resources/app.pub
+
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
